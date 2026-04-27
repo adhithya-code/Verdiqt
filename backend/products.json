@@ -1,0 +1,521 @@
+[
+    {
+        "id": 1,
+        "name": "CP Plus 2MP Full HD Smart WiFi CCTV Camera",
+        "brand": "CP Plus",
+        "category": "security_camera",
+        "amazon_price": 1299,
+        "flipkart_price": 1349,
+        "croma_price": 1499,
+        "specs": [
+            "2MP", "1080p", "WiFi", "Night Vision", "Indoor",
+            "Mobile App", "Motion Detection"
+        ],
+        "rating": 4.1,
+        "review_count": 12847,
+        "reviews": [
+            "Very good camera for the price. Setup was easy.",
+            "Night vision is excellent, can see clearly in dark.",
+            "Best budget camera available in India right now.",
+            "Stopped connecting to WiFi after 2 months. Very disappointed.",
+            "Picture quality is sharp and clear during daytime.",
+            "Mobile app works smoothly. Live view is great.",
+            "Cheap build quality but works fine for indoor use."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Realme TechLife Cam360 4MP Outdoor Security Camera",
+        "brand": "Realme",
+        "category": "security_camera",
+        "amazon_price": 2799,
+        "flipkart_price": 2699,
+        "croma_price": 2999,
+        "specs": [
+            "4MP", "2K", "WiFi", "Night Vision", "Outdoor",
+            "IP66 Waterproof", "360 Degree"
+        ],
+        "rating": 4.3,
+        "review_count": 3241,
+        "reviews": [
+            "Excellent outdoor camera. Survived heavy rain.",
+            "4MP clarity is amazing, can read number plates clearly.",
+            "360 degree rotation is very smooth.",
+            "WiFi range could be better, drops at 15 meters.",
+            "Night vision is outstanding even in complete darkness.",
+            "Worth every rupee. Highly recommended for outdoor.",
+            "Two way audio is very useful, sound quality is clear."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Tapo C200 Pan/Tilt Home Security WiFi Camera",
+        "brand": "TP-Link Tapo",
+        "category": "security_camera",
+        "amazon_price": 1799,
+        "flipkart_price": 1899,
+        "croma_price": 1999,
+        "specs": [
+            "2MP", "1080p", "WiFi", "Night Vision", "Indoor",
+            "Pan Tilt", "Two Way Audio"
+        ],
+        "rating": 4.4,
+        "review_count": 28934,
+        "reviews": [
+            "Best camera I have ever bought. Pan tilt is amazing.",
+            "Motion tracking works perfectly, follows movement automatically.",
+            "Tapo app is very user friendly and reliable.",
+            "Setup took only 5 minutes. Very easy for beginners.",
+            "Night vision range is around 9 meters, which is good.",
+            "Build quality is premium compared to price.",
+            "Occasional lag in live view but overall great product."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Hikvision DS-2CD1143G2-I 4MP AcuSense Outdoor Camera",
+        "brand": "Hikvision",
+        "category": "security_camera",
+        "amazon_price": 4299,
+        "flipkart_price": 4499,
+        "croma_price": 4799,
+        "specs": [
+            "4MP", "2K", "Wired", "Night Vision", "Outdoor",
+            "IP67 Waterproof", "AcuSense AI"
+        ],
+        "rating": 4.6,
+        "review_count": 876,
+        "reviews": [
+            "Professional grade camera at this price is unbelievable.",
+            "AI detection reduces false alerts significantly.",
+            "Wired connection means zero connectivity issues.",
+            "Hikvision is the best brand for security cameras globally.",
+            "Installation needs professional help, not plug and play.",
+            "H.265 compression saves a lot of storage space.",
+            "Night vision is infrared based, works perfectly in zero light."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Mi Home Security Camera Basic 1080p",
+        "brand": "Xiaomi",
+        "category": "security_camera",
+        "amazon_price": 999,
+        "flipkart_price": 899,
+        "croma_price": 1099,
+        "specs": [
+            "2MP", "1080p", "WiFi", "Night Vision", "Indoor",
+            "360 Degree", "Two Way Audio"
+        ],
+        "rating": 3.9,
+        "review_count": 45231,
+        "reviews": [
+            "Very affordable and works decently for basic monitoring.",
+            "Mi Home app integration is seamless.",
+            "Had connectivity issues after firmware update.",
+            "For this price you cannot expect much but it delivers basics.",
+            "Night vision is average, only works up to 5 meters.",
+            "Build feels cheap but works for the price.",
+            "Stopped working completely after 4 months."
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Godrej Solus Premium 3MP Outdoor Bullet Camera",
+        "brand": "Godrej",
+        "category": "security_camera",
+        "amazon_price": 3499,
+        "flipkart_price": 3299,
+        "croma_price": 3699,
+        "specs": [
+            "3MP", "1296p", "Wired", "Night Vision", "Outdoor",
+            "IP66 Waterproof", "Wide Angle"
+        ],
+        "rating": 4.2,
+        "review_count": 543,
+        "reviews": [
+            "Godrej brand gives confidence in quality and after sales.",
+            "30 meter night vision range is excellent for outdoor.",
+            "Wired connection is rock solid, no drops ever.",
+            "Wide angle lens covers large area, reduced cameras needed.",
+            "Setup was straightforward with the included manual.",
+            "Bit expensive compared to Chinese brands but reliability is worth it.",
+            "Customer support was helpful when I had a query."
+        ]
+    },
+    {
+        "id": 7,
+        "name": "ASUS VivoBook 15 Intel Core i5 12th Gen Laptop",
+        "brand": "ASUS",
+        "category": "laptop",
+        "amazon_price": 52990,
+        "flipkart_price": 51490,
+        "croma_price": 54990,
+        "specs": [
+            "Intel Core i5-1235U", "8GB RAM", "512GB SSD",
+            "15.6 inch FHD", "Windows 11", "Backlit Keyboard",
+            "Thin and Light", "Office Use"
+        ],
+        "rating": 4.3,
+        "review_count": 8912,
+        "reviews": [
+            "Great laptop for office and college work. Very fast.",
+            "Battery life is outstanding, lasts all day easily.",
+            "Build quality is premium, feels solid in hands.",
+            "Display is bright and colors are vibrant.",
+            "Runs all office applications smoothly without heating.",
+            "Value for money is excellent at this price point.",
+            "Fan noise is a bit loud during heavy tasks."
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Lenovo IdeaPad Slim 3 AMD Ryzen 5 5500U Laptop",
+        "brand": "Lenovo",
+        "category": "laptop",
+        "amazon_price": 44990,
+        "flipkart_price": 43490,
+        "croma_price": 46990,
+        "specs": [
+            "AMD Ryzen 5 5500U", "8GB RAM", "512GB SSD",
+            "15.6 inch FHD", "Windows 11", "Thin and Light",
+            "Student", "Budget"
+        ],
+        "rating": 4.2,
+        "review_count": 15673,
+        "reviews": [
+            "Best budget laptop for students. No compromise on performance.",
+            "Ryzen 5 handles everything including light gaming.",
+            "Screen quality is decent for the price.",
+            "Keyboard is comfortable for long typing sessions.",
+            "Build feels a bit plasticky but acceptable for budget.",
+            "Heats up a bit under gaming loads.",
+            "Excellent for college and coding work."
+        ]
+    },
+    {
+        "id": 9,
+        "name": "HP Pavilion 15 Intel Core i7 12th Gen Gaming Laptop",
+        "brand": "HP",
+        "category": "laptop",
+        "amazon_price": 79990,
+        "flipkart_price": 77490,
+        "croma_price": 82990,
+        "specs": [
+            "Intel Core i7-1255U", "16GB RAM", "512GB SSD",
+            "15.6 inch FHD IPS", "NVIDIA MX550 GPU", "Gaming",
+            "Windows 11", "Backlit Keyboard"
+        ],
+        "rating": 4.4,
+        "review_count": 4231,
+        "reviews": [
+            "Excellent performance for gaming and heavy work.",
+            "16GB RAM handles multitasking like a pro.",
+            "Display quality is brilliant, IPS panel is stunning.",
+            "MX550 GPU handles older games very well at medium settings.",
+            "Build quality is solid and premium feel.",
+            "Battery drains fast during gaming, keep charger handy.",
+            "Worth every rupee for the performance you get."
+        ]
+    },
+    {
+        "id": 10,
+        "name": "MacBook Air M2 13 inch 8GB 256GB",
+        "brand": "Apple",
+        "category": "laptop",
+        "amazon_price": 99900,
+        "flipkart_price": 97990,
+        "croma_price": 102990,
+        "specs": [
+            "Apple M2 Chip", "8GB Unified Memory", "256GB SSD",
+            "13.6 inch Liquid Retina", "macOS", "Fanless",
+            "Thin and Light", "Professional"
+        ],
+        "rating": 4.8,
+        "review_count": 22145,
+        "reviews": [
+            "Best laptop ever made. M2 performance is unbelievable.",
+            "Battery lasts 18 hours easily on normal usage.",
+            "Display is absolutely stunning, best in class.",
+            "Silent operation, no fan noise at all ever.",
+            "macOS ecosystem is seamless if you have iPhone.",
+            "256GB storage feels a bit less after a year of use.",
+            "Premium build quality justifies every rupee of the price."
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Samsung Galaxy S24 5G 8GB 128GB",
+        "brand": "Samsung",
+        "category": "smartphone",
+        "amazon_price": 59999,
+        "flipkart_price": 57999,
+        "croma_price": 61999,
+        "specs": [
+            "Snapdragon 8 Gen 3", "8GB RAM", "128GB Storage",
+            "6.2 inch Dynamic AMOLED", "50MP Camera", "5G",
+            "Android 14", "AI Features"
+        ],
+        "rating": 4.5,
+        "review_count": 18923,
+        "reviews": [
+            "Fastest Android phone I have ever used. Lightning quick.",
+            "Camera quality is exceptional, AI processing is amazing.",
+            "Display is the best on any Android phone.",
+            "Battery life improved with 8 Gen 3, lasts full day.",
+            "Galaxy AI features are genuinely useful not gimmicky.",
+            "Heats slightly during intensive gaming sessions.",
+            "Build quality is premium and feels very solid."
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Realme 12 Pro Plus 5G 12GB 256GB",
+        "brand": "Realme",
+        "category": "smartphone",
+        "amazon_price": 29999,
+        "flipkart_price": 28499,
+        "croma_price": 31999,
+        "specs": [
+            "Snapdragon 7s Gen 2", "12GB RAM", "256GB Storage",
+            "6.7 inch AMOLED", "50MP Periscope Camera", "5G",
+            "Android 14", "67W Fast Charging"
+        ],
+        "rating": 4.3,
+        "review_count": 9231,
+        "reviews": [
+            "Best mid-range phone for camera lovers. Periscope is great.",
+            "12GB RAM keeps everything running super smooth.",
+            "67W charging fills up the phone in under an hour.",
+            "Display quality punches above its price range.",
+            "Camera zoom quality is outstanding at this price.",
+            "Gaming performance is excellent for a mid ranger.",
+            "Occasional heating issue during long gaming sessions."
+        ]
+    },
+    {
+        "id": 13,
+        "name": "iQOO Neo 9 Pro 5G 8GB 128GB",
+        "brand": "iQOO",
+        "category": "smartphone",
+        "amazon_price": 34999,
+        "flipkart_price": 33499,
+        "croma_price": null,
+        "specs": [
+            "Snapdragon 8 Gen 2", "8GB RAM", "128GB Storage",
+            "6.78 inch AMOLED 144Hz", "50MP Camera", "5G",
+            "Android 14", "120W Fast Charging", "Gaming"
+        ],
+        "rating": 4.5,
+        "review_count": 7612,
+        "reviews": [
+            "Absolute beast of a phone at this price. Gaming king.",
+            "120W charging is insane, full charge in 25 minutes.",
+            "144Hz display is buttery smooth for gaming.",
+            "Snapdragon 8 Gen 2 handles anything you throw at it.",
+            "iQOO software is clean with no bloatware.",
+            "Camera is good but not the best in this segment.",
+            "Battery life is excellent, easily lasts the full day."
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Poco M6 Pro 5G 6GB 128GB",
+        "brand": "Poco",
+        "category": "smartphone",
+        "amazon_price": 14999,
+        "flipkart_price": 13999,
+        "croma_price": 15999,
+        "specs": [
+            "Snapdragon 4 Gen 2", "6GB RAM", "128GB Storage",
+            "6.67 inch IPS LCD", "50MP Camera", "5G",
+            "Android 13", "18W Charging", "Budget"
+        ],
+        "rating": 4.0,
+        "review_count": 31245,
+        "reviews": [
+            "Best budget 5G phone under 15000 in India.",
+            "Performance is smooth for daily tasks and social media.",
+            "Battery life is solid, lasts almost two days.",
+            "Camera is decent for the price, good in daylight.",
+            "Build quality is good, feels premium for budget.",
+            "18W charging is slow compared to competitors.",
+            "Great value for money if you want basic 5G connectivity."
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+        "brand": "Sony",
+        "category": "headphones",
+        "amazon_price": 26990,
+        "flipkart_price": 25990,
+        "croma_price": 27990,
+        "specs": [
+            "Wireless", "Bluetooth 5.2", "Active Noise Cancellation",
+            "30 Hours Battery", "Over Ear", "Hi-Res Audio",
+            "Multipoint Connection", "Professional"
+        ],
+        "rating": 4.7,
+        "review_count": 14532,
+        "reviews": [
+            "Best noise cancellation headphones money can buy.",
+            "Sound quality is absolutely phenomenal and rich.",
+            "30 hour battery is accurate, very long lasting.",
+            "Very comfortable for hours of continuous use.",
+            "Call quality is crystal clear with excellent mics.",
+            "Expensive but worth every single rupee spent.",
+            "Multipoint connection between phone and laptop is seamless."
+        ]
+    },
+    {
+        "id": 16,
+        "name": "boAt Rockerz 450 Pro Bluetooth Headphones",
+        "brand": "boAt",
+        "category": "headphones",
+        "amazon_price": 1499,
+        "flipkart_price": 1299,
+        "croma_price": 1799,
+        "specs": [
+            "Wireless", "Bluetooth 5.0", "70 Hours Battery",
+            "Over Ear", "Bass Boost", "Foldable",
+            "Budget", "Colorful"
+        ],
+        "rating": 4.0,
+        "review_count": 89023,
+        "reviews": [
+            "Best budget headphones in India. Great bass.",
+            "70 hours battery is insane for the price.",
+            "Sound is bass heavy which is great for music.",
+            "Build quality is decent for a budget product.",
+            "Mic quality is average during calls.",
+            "Foldable design makes it very portable.",
+            "Gets a bit uncomfortable after 2-3 hours of use."
+        ]
+    },
+    {
+        "id": 17,
+        "name": "JBL Tune 770NC Wireless ANC Headphones",
+        "brand": "JBL",
+        "category": "headphones",
+        "amazon_price": 7499,
+        "flipkart_price": 6999,
+        "croma_price": 7999,
+        "specs": [
+            "Wireless", "Bluetooth 5.3", "Active Noise Cancellation",
+            "70 Hours Battery", "Over Ear", "Ambient Aware",
+            "Multipoint", "Foldable"
+        ],
+        "rating": 4.4,
+        "review_count": 5234,
+        "reviews": [
+            "Excellent ANC at this mid-range price point.",
+            "70 hours battery with ANC on is impressive.",
+            "JBL sound signature is punchy and fun to listen to.",
+            "Comfortable padding, great for long listening sessions.",
+            "Ambient mode is very useful outdoors.",
+            "ANC is not as strong as Sony XM5 but good for the price.",
+            "Foldable and compact design is great for travel."
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Sennheiser Momentum 4 Wireless Headphones",
+        "brand": "Sennheiser",
+        "category": "headphones",
+        "amazon_price": 22990,
+        "flipkart_price": 21990,
+        "croma_price": 23990,
+        "specs": [
+            "Wireless", "Bluetooth 5.2", "Active Noise Cancellation",
+            "60 Hours Battery", "Over Ear", "Hi-Res Audio",
+            "Adaptive ANC", "Premium"
+        ],
+        "rating": 4.6,
+        "review_count": 2341,
+        "reviews": [
+            "Sennheiser sound quality is unmatched, very balanced and detailed.",
+            "60 hours battery is exceptional for premium headphones.",
+            "ANC performance is excellent, blocks all ambient noise.",
+            "Most comfortable headphones I have worn for hours.",
+            "Sound stage is wide and immersive, music feels live.",
+            "App customisation is great for EQ tweaking.",
+            "Slightly expensive but a true audiophile choice."
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Apple Watch Series 9 GPS 41mm",
+        "brand": "Apple",
+        "category": "smartwatch",
+        "amazon_price": 41900,
+        "flipkart_price": 40900,
+        "croma_price": 43900,
+        "specs": [
+            "Apple S9 Chip", "Always On Display", "Blood Oxygen",
+            "ECG", "GPS", "watchOS 10", "Water Resistant 50m",
+            "iPhone Compatible", "Health Tracking"
+        ],
+        "rating": 4.8,
+        "review_count": 11234,
+        "reviews": [
+            "Best smartwatch for iPhone users, seamless integration.",
+            "Health tracking features are very accurate and reliable.",
+            "Build quality and display are absolutely premium.",
+            "ECG and blood oxygen features are genuinely useful.",
+            "Battery lasts about 18 hours, needs daily charging.",
+            "Only works with iPhone which is a major limitation.",
+            "Double tap gesture is a game changer for convenience."
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Samsung Galaxy Watch 6 44mm Bluetooth",
+        "brand": "Samsung",
+        "category": "smartwatch",
+        "amazon_price": 26999,
+        "flipkart_price": 25499,
+        "croma_price": 28999,
+        "specs": [
+            "Exynos W930", "AMOLED Display", "Blood Pressure Monitor",
+            "ECG", "GPS", "Wear OS 4", "Water Resistant 5ATM",
+            "Android Compatible", "Health Tracking", "Sleep Tracking"
+        ],
+        "rating": 4.5,
+        "review_count": 6782,
+        "reviews": [
+            "Best Android smartwatch in the market right now.",
+            "Blood pressure monitoring is surprisingly accurate.",
+            "AMOLED display is vivid and easy to read outdoors.",
+            "Works perfectly with Samsung and non-Samsung Androids.",
+            "Battery lasts about 40 hours which is acceptable.",
+            "Sleep tracking is very detailed and useful.",
+            "Rotating bezel was removed which is slightly disappointing."
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Noise ColorFit Ultra 3 Smartwatch",
+        "brand": "Noise",
+        "category": "smartwatch",
+        "amazon_price": 3499,
+        "flipkart_price": 2999,
+        "croma_price": 3799,
+        "specs": [
+            "1.96 inch AMOLED", "SpO2 Monitor", "Heart Rate",
+            "GPS", "7 Day Battery", "Water Resistant IP68",
+            "Budget", "Fitness Tracking", "100 Sports Modes"
+        ],
+        "rating": 4.1,
+        "review_count": 34512,
+        "reviews": [
+            "Best budget smartwatch in India for the features offered.",
+            "7 day battery is very convenient, charge once a week.",
+            "AMOLED display looks premium for the price.",
+            "Fitness tracking is accurate enough for daily use.",
+            "GPS is a bit slow to lock but works fine.",
+            "Heart rate sensor is reasonably accurate.",
+            "Build quality is good, feels durable for a budget watch."
+        ]
+    }
+]
